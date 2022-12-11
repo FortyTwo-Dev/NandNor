@@ -1,9 +1,6 @@
 def OR(A, B):
 	return A | B
 
-# def XOR(A, B):
-# 	return A ^ B
-
 def AND(A, B):
 	return A & B
 
